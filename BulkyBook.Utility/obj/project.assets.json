@@ -787,9 +787,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
-      "projectName": "BulkyBook.Utility",
-      "projectPath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BooksBuddy.Utility.csproj",
+      "projectName": "BooksBuddy.Utility",
+      "projectPath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BooksBuddy.Utility.csproj",
       "packagesPath": "C:\\Users\\makad\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Utility\\obj\\",
       "projectStyle": "PackageReference",

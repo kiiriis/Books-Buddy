@@ -6893,9 +6893,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
-      "projectName": "BulkyBook.Models",
-      "projectPath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+      "projectUniqueName": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Models\\BooksBuddy.Models.csproj",
+      "projectName": "BooksBuddy.Models",
+      "projectPath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Models\\BooksBuddy.Models.csproj",
       "packagesPath": "C:\\Users\\makad\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Models\\obj\\",
       "projectStyle": "PackageReference",

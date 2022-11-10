@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jCXe2K4b8KoIXW0UIapUXDaKhM/R7mV3wTvUkXZb5UnUCs4/poutATtHHJFYqTFy+F97sUPAEMhUvj+Pc7aH0g==",
+  "dgSpecHash": "qCgGYdc/At9L7dy9Ja9AWyL8vp1ci84rrENGgMJdVlg6Ov8F3mXbr+yBsjl2B9LN/rRThhnATO+V96W1zlQ1Ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+  "projectFilePath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBookWeb\\BooksBuddyWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\makad\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\makad\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

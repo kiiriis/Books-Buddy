@@ -2747,7 +2747,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "BulkyBook.Models/1.0.0": {
+      "BooksBuddy.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -2755,10 +2755,10 @@
           "Microsoft.Extensions.Identity.Stores": "6.0.10"
         },
         "compile": {
-          "bin/placeholder/BulkyBook.Models.dll": {}
+          "bin/placeholder/BooksBuddy.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BulkyBook.Models.dll": {}
+          "bin/placeholder/BooksBuddy.Models.dll": {}
         }
       }
     }
@@ -7985,15 +7985,15 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "BulkyBook.Models/1.0.0": {
+    "BooksBuddy.Models/1.0.0": {
       "type": "project",
-      "path": "../BulkyBook.Models/BulkyBook.Models.csproj",
-      "msbuildProject": "../BulkyBook.Models/BulkyBook.Models.csproj"
+      "path": "../BulkyBook.Models/BooksBuddy.Models.csproj",
+      "msbuildProject": "../BulkyBook.Models/BooksBuddy.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "BulkyBook.Models >= 1.0.0",
+      "BooksBuddy.Models >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.10",
       "Microsoft.EntityFrameworkCore >= 6.0.10",
       "Microsoft.EntityFrameworkCore.Relational >= 6.0.10",
@@ -8006,9 +8006,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
-      "projectName": "BulkyBook.DataAccess",
-      "projectPath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\BooksBuddy.DataAccess.csproj",
+      "projectName": "BooksBuddy.DataAccess",
+      "projectPath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\BooksBuddy.DataAccess.csproj",
       "packagesPath": "C:\\Users\\makad\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
@@ -8027,8 +8027,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
-              "projectPath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
+            "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Models\\BooksBuddy.Models.csproj": {
+              "projectPath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Models\\BooksBuddy.Models.csproj"
             }
           }
         }

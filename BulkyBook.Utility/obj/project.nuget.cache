@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eM5SRhJs3Hw0cpSgneffpHsbNJ9/tIjOeNn+UDMpYx2dwiT1fk+oUO+Iu8stAusS1o+YzX1yVow3EahBPJUuPA==",
+  "dgSpecHash": "GdgowH2cbK8XV7KMTXW/zlAV0kwhRWxcvuWFcWBgkUgFzi6WsNo6E/rKs8295Z4zFr0MuaKCxpl/9xfGhWUcTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+  "projectFilePath": "C:\\Users\\makad\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BooksBuddy.Utility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\makad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.10\\microsoft.aspnetcore.cryptography.internal.6.0.10.nupkg.sha512",
     "C:\\Users\\makad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.10\\microsoft.aspnetcore.cryptography.keyderivation.6.0.10.nupkg.sha512",
